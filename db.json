@@ -890,7 +890,7 @@
           "gameName": "FIRE EMBLEM 無雙 風花雪月",
           "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000050752.jpeg",
           "gamePrice": 1980,
-          "amount": 1,
+          "amount": 3,
           "userId": "114294146809322413655"
         }
       ]
@@ -898,9 +898,9 @@
   ],
   "order": [
     {
-      "name": "朱怡璇",
+      "name": "王曉明",
       "phone": "0970179514",
-      "address": "金陵路四段五號",
+      "address": "桃園市",
       "pay": "信用卡",
       "totalPrice": 5520,
       "userId": "117298503299546924633",
@@ -934,9 +934,9 @@
       "id": 7
     },
     {
-      "name": "朱怡璇",
+      "name": "王大明",
       "phone": "0970179514",
-      "address": "高雄市燕巢區燕南二街68號",
+      "address": "高雄市",
       "pay": "LINE PAY",
       "totalPrice": 2980,
       "userId": "114294146809322413655",
@@ -962,9 +962,9 @@
       "id": 8
     },
     {
-      "name": "朱怡璇",
+      "name": "王大明",
       "phone": "0970179514",
-      "address": "高雄市燕巢區燕南二街68號",
+      "address": "高雄市",
       "pay": "貨到付款",
       "totalPrice": 3340,
       "userId": "114294146809322413655",
@@ -988,6 +988,62 @@
         }
       ],
       "id": 11
+    },
+    {
+      "name": "王曉明",
+      "phone": "0970179514",
+      "address": "桃園市",
+      "pay": "貨到付款",
+      "totalPrice": 2880,
+      "userId": "117298503299546924633",
+      "date": "2022-06-07",
+      "orderList": [
+        {
+          "id": 3,
+          "gameName": "Nintendo Switch 運動",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000049934.jpeg",
+          "gamePrice": 1290,
+          "amount": 1,
+          "userId": "117298503299546924633"
+        },
+        {
+          "id": 5,
+          "gameName": "寶可夢傳說 阿爾宙斯",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/202107_eshop_banner_nhl_15_.jpg",
+          "gamePrice": 1590,
+          "amount": 1,
+          "userId": "117298503299546924633"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "王曉明",
+      "phone": "0912345678",
+      "address": "桃園市",
+      "pay": "LINE PAY",
+      "totalPrice": 4570,
+      "userId": "117298503299546924633",
+      "date": "2022-06-07",
+      "orderList": [
+        {
+          "id": 5,
+          "gameName": "寶可夢傳說 阿爾宙斯",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/202107_eshop_banner_nhl_15_.jpg",
+          "gamePrice": 1590,
+          "amount": 2,
+          "userId": "117298503299546924633"
+        },
+        {
+          "id": 14,
+          "gameName": "瑪利歐高爾夫 超級衝衝衝",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/mario_golf.jpg",
+          "gamePrice": 1390,
+          "amount": 1,
+          "userId": "117298503299546924633"
+        }
+      ],
+      "id": 13
     }
   ]
 }
