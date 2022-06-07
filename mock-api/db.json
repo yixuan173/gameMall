@@ -1,0 +1,993 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "gameName": "FIRE EMBLEM 無雙 風花雪月",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000050752.jpeg",
+      "gamePrice": 1980,
+      "gameVideoUrl": "https://www.youtube.com/embed/rCk40EnfSD0",
+      "date": "2022.6.24",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 2,
+      "gameName": "瑪利歐激戰前鋒 戰鬥聯賽",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000049939.jpeg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://www.youtube.com/embed/ExSquH3z_Zg",
+      "date": "2022.6.10",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 3,
+      "gameName": "Nintendo Switch 運動",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000049934.jpeg",
+      "gamePrice": 1290,
+      "gameVideoUrl": "https://youtube.com/embed/yaE7W0eKP_U",
+      "date": "2022.4.29",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 4,
+      "gameName": "星之卡比 探索發現",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000046408.jpeg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/H4ngownvkRQ",
+      "date": "2022.3.25",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 5,
+      "gameName": "寶可夢傳說 阿爾宙斯",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/202107_eshop_banner_nhl_15_.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://www.youtube.com/embed/Tg1tE2U0uuM",
+      "date": "2022.1.28",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 6,
+      "gameName": "靈活腦學校 一起伸展大腦",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/HAC-P-AZLSA.jpg",
+      "gamePrice": 850,
+      "gameVideoUrl": "https://youtube.com/embed/QW3PSumYEVo",
+      "date": "2021.12.3",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 7,
+      "gameName": "寶可夢 晶燦鑽石",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/2021071_eshop_banner_nhl_92_.jpg",
+      "gamePrice": 1390,
+      "gameVideoUrl": "https://youtube.com/embed/7ykGH9mJ3F0",
+      "date": "2021.11.19",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 8,
+      "gameName": "寶可夢 明亮珍珠",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/202107_2_eshop_banner_nhl_34_.jpg",
+      "gamePrice": 1390,
+      "gameVideoUrl": "https://youtube.com/embed/7ykGH9mJ3F0",
+      "date": "2021.11.19",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 9,
+      "gameName": "Mario Party™ Superstars（瑪利歐派對 超級巨星）",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/mario_party_ss.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/GkK_AaxdMZA",
+      "date": "2021.10.29",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 10,
+      "gameName": "密特羅德 生存恐懼",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/metroid.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/Y3pmmaeOQBE",
+      "date": "2021.10.8",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 11,
+      "gameName": "分享同樂！瓦利歐製造",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/wario.jpg",
+      "gamePrice": 1190,
+      "gameVideoUrl": "https://www.youtube.com/embed/2YdsblmJi58",
+      "date": "2021.9.10",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 12,
+      "gameName": "搭檔任務 秘密搜查組",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/bond.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/H7PYjd3kDbA",
+      "date": "2021.8.20",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 13,
+      "gameName": "哆啦Ａ夢 樂學遊戲合輯",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/SXA-HAC-A2P8A-TW-banner.jpg",
+      "gamePrice": 1190,
+      "gameVideoUrl": "https://youtube.com/embed/nNEncwUPOug",
+      "date": "2021.7.15",
+      "maker": "小學館",
+      "type": "盒裝版"
+    },
+    {
+      "id": 14,
+      "gameName": "瑪利歐高爾夫 超級衝衝衝",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/mario_golf.jpg",
+      "gamePrice": 1390,
+      "gameVideoUrl": "https://youtube.com/embed/WDheSi5mdPI",
+      "date": "2021.6.25",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 15,
+      "gameName": "附帶導航！一做就上手 第一次的遊戲程式設計",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/navi.jpg",
+      "gamePrice": 750,
+      "gameVideoUrl": "https://youtube.com/embed/klgAM_Aal3s",
+      "date": "2021.6.11",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 16,
+      "gameName": "迷托邦",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/miitopia.jpg",
+      "gamePrice": 1290,
+      "gameVideoUrl": "https://youtube.com/embed/1o_jUU7R6e8",
+      "date": "2021.5.21",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 17,
+      "gameName": "New 寶可夢隨樂拍",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000037992.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/mbKDcPmSn1E",
+      "date": "2021.4.30",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 18,
+      "gameName": "A列車：開始吧 觀光開發計畫",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000030778.jpg",
+      "gamePrice": 1549,
+      "gameVideoUrl": "https://youtube.com/embed/r9ov5jpRUyg",
+      "date": "2021.3.12",
+      "maker": "ARTDINK",
+      "type": "盒裝版"
+    },
+    {
+      "id": 19,
+      "gameName": "超級瑪利歐 ３Ｄ世界 ＋ 狂怒世界",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/super_mario_3d_world.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/_Ub5SELc6IM",
+      "date": "2021.2.12",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 20,
+      "gameName": "Fitness Boxing 2: Rhythm & Exercise",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/fitness_boxing_2.jpg",
+      "gamePrice": 1290,
+      "gameVideoUrl": "https://youtube.com/embed/wyc2Y-LGWjQ",
+      "date": "2020.12.3",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 21,
+      "gameName": "ZELDA無雙 災厄啟示錄",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/zelda_musou.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/NtB-BnB6FrE",
+      "date": "2020.11.20",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 22,
+      "gameName": "皮克敏™３ 豪華版",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/pikumi3.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/padUt56dMgU",
+      "date": "2020.10.30",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 23,
+      "gameName": "超級瑪利歐 3D 收藏輯",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/mario_3d_collection.jpg",
+      "gamePrice": 1250,
+      "gameVideoUrl": "https://youtube.com/embed/7kuROFws2zY",
+      "date": "2020.9.18",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 24,
+      "gameName": "紙片瑪利歐：摺紙國王",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/paper_mario.jpg",
+      "gamePrice": 1390,
+      "gameVideoUrl": "https://youtube.com/embed/d51LzlrAsaw",
+      "date": "2020.7.17",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 25,
+      "gameName": "腦科學專家 川島隆太博士監修 大人的Nintendo Switch腦部鍛鍊",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/brain_training.jpg",
+      "gamePrice": 890,
+      "gameVideoUrl": "https://youtube.com/embed/1kvgANIUc3U",
+      "date": "2020.7.1",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 26,
+      "gameName": "世界遊戲大全51",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/clubhouse_games.jpg",
+      "gamePrice": 1050,
+      "gameVideoUrl": "https://youtube.com/embed/P5X9zrLd_dI",
+      "date": "2020.6.5",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 27,
+      "gameName": "九龍妖魔學園紀 ORIGIN OF ADVENTURE",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/OOA.jpg",
+      "gamePrice": 1850,
+      "gameVideoUrl": "https://youtube.com/embed/HkVqGj0jy68",
+      "date": "2020.6.4",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 28,
+      "gameName": "異度神劍 終極版",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/xenoblade_definitive_edition.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/4R3JVBSNPQo",
+      "date": "2020.5.29",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 29,
+      "gameName": "集合啦！動物森友會",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/animal_crossing.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/fCigDsYYr_A",
+      "date": "2020.3.20",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 30,
+      "gameName": "被囚禁的掌心 Refrain",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/plmr.jpg",
+      "gamePrice": 2060,
+      "gameVideoUrl": "https://youtube.com/embed/ehPpW4nNyn8",
+      "date": "2020.3.12",
+      "maker": "CAPCOM",
+      "type": "盒裝版"
+    },
+    {
+      "id": 31,
+      "gameName": "ポケモン不思議のダンジョン 救助隊DX",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/pokemon_mystery_dungeon_rescue_team_dx.jpg",
+      "gamePrice": 1690,
+      "gameVideoUrl": "https://youtube.com/embed/gXzuMRBQSwo",
+      "date": "2020.3.6",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 32,
+      "gameName": "幻影異聞錄♯FE Encore",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/tokyo_mirage_sessions_fe_encore_tc.jpg",
+      "gamePrice": 1790,
+      "gameVideoUrl": "https://youtube.com/embed/sdlCRDqvPDk",
+      "date": "2020.1.17",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 33,
+      "gameName": "寶可夢 盾",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/pokemonSH.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/aym-gRLkNkM",
+      "date": "2019.11.15",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 34,
+      "gameName": "寶可夢 劍",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/pokemonSW.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/aym-gRLkNkM",
+      "date": "2019.11.15",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 35,
+      "gameName": "路易吉洋樓３",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/luigi_mansion_3.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/4C8dlf8nVN0",
+      "date": "2019.10.31",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 36,
+      "gameName": "健身環大冒險",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/ringfit_adventure.jpg",
+      "gamePrice": 1880,
+      "gameVideoUrl": "https://youtube.com/embed/zrwuZ_Le3JI",
+      "date": "2019.10.18",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 37,
+      "gameName": "勇者鬥惡龍XI S 尋覓逝去的時光 – Definitive Edition",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/dq11.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/hmoKRUMFSQk",
+      "date": "2019.9.27",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 38,
+      "gameName": "薩爾達傳說 織夢島",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/zelda_links_awakening.jpg",
+      "gamePrice": 1490,
+      "gameVideoUrl": "https://youtube.com/embed/ErhtkIhj708",
+      "date": "2019.9.20",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 39,
+      "gameName": "DAEMON X MACHINA（機甲戰魔）",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/daemonxmachina.jpg",
+      "gamePrice": 1650,
+      "gameVideoUrl": "https://youtube.com/embed/rDibf2zyGSo",
+      "date": "2019.9.13",
+      "maker": "Marvelous",
+      "type": "盒裝版"
+    },
+    {
+      "id": 40,
+      "gameName": "異界鎖鏈",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/astral_chain.jpg",
+      "gamePrice": 1490,
+      "gameVideoUrl": "https://youtube.com/embed/zrZrJV_p9qs",
+      "date": "2019.8.30",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 41,
+      "gameName": "被囚禁的掌心",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/plm.jpg",
+      "gamePrice": 1790,
+      "gameVideoUrl": "https://youtube.com/embed/Ok-7qtVXHuc",
+      "date": "2019.8.30",
+      "maker": "CAPCOM",
+      "type": "盒裝版"
+    },
+    {
+      "id": 42,
+      "gameName": "Fire Emblem 風花雪月",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/fe_three_houses.jpg",
+      "gamePrice": 1790,
+      "gameVideoUrl": "https://youtube.com/embed/gSaCX_irR9s",
+      "date": "2019.7.26",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 43,
+      "gameName": "MARVEL ULTIMATE ALLIANCE 3: The Black Order",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/mua3.jpg",
+      "gamePrice": 1790,
+      "gameVideoUrl": "https://youtube.com/embed/1RohG-JzXiM",
+      "date": "2019.7.19",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 44,
+      "gameName": "Super Mario Maker 2（超級瑪利歐創作家 2）",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/smm2.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/tnd6Py4ZiU0",
+      "date": "2019.6.28",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 45,
+      "gameName": "Nintendo Labo Toy-Con 04: VR套裝 輕量版（僅附火箭筒）",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/labo4_lite.jpg",
+      "gamePrice": 980,
+      "gameVideoUrl": "https://youtube.com/embed/xmvnENhc0W4",
+      "date": "2019.4.12",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 46,
+      "gameName": "Nintendo Labo Toy-Con 04: VR套裝",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/labo4.jpg",
+      "gamePrice": 2190,
+      "gameVideoUrl": "https://youtube.com/embed/xmvnENhc0W4",
+      "date": "2019.4.12",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 47,
+      "gameName": "耀西的手工世界",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/yoshis_crafted_world.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/54_BOSU_zY0",
+      "date": "2019.3.29",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 48,
+      "gameName": "ZOidS機獸戰記 狂野爆發 王者爆發",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/zoidsw_kob.jpg",
+      "gamePrice": 1790,
+      "gameVideoUrl": "https://youtube.com/embed/ysMS-yC6XwY",
+      "date": "2019.2.28",
+      "maker": "TAKARA TOMY",
+      "type": "盒裝版"
+    },
+    {
+      "id": 49,
+      "gameName": "New 超級瑪利歐兄弟U 豪華版",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/nsmb_u_deluxe.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/vcfhXHPBTWs",
+      "date": "2019.1.11",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 50,
+      "gameName": "Fitness Boxing",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/fitness_boxing.jpg",
+      "gamePrice": 1490,
+      "gameVideoUrl": "https://youtube.com/embed/5s46efcroQ0",
+      "date": "2018.12.20",
+      "maker": "Imagineer Co., Ltd.",
+      "type": "盒裝版"
+    },
+    {
+      "id": 51,
+      "gameName": "任天堂明星大亂鬥 特別版",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/smashbros_ultimate.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/oqvRGBB2bsM",
+      "date": "2018.12.7",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 52,
+      "gameName": "精靈寶可夢 Let's Go！伊布",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/pokemon_letsgo_eevee.jpg",
+      "gamePrice": 1490,
+      "gameVideoUrl": "https://youtube.com/embed/9AN10qes1lE",
+      "date": "2018.11.16",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 53,
+      "gameName": "精靈寶可夢 Let's Go！皮卡丘",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/pokemon_letsgo_pikachu.jpg",
+      "gamePrice": 1490,
+      "gameVideoUrl": "https://youtube.com/embed/9AN10qes1lE",
+      "date": "2018.11.16",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 54,
+      "gameName": "超級瑪利歐 奧德賽 特別版",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/super_mario_odyssey_travel.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/Mq9YbJyGhKI",
+      "date": "2018.11.9",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 55,
+      "gameName": "DARK SOULS™: Remastered",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/dark_soul_remastered.jpg",
+      "gamePrice": 1290,
+      "gameVideoUrl": "https://youtube.com/embed/nLkObfToekA",
+      "date": "2018.10.18",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 56,
+      "gameName": "The World Ends with You: Final Remix",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/the_world_ends_with_you_final_remix.jpg",
+      "gamePrice": 1390,
+      "gameVideoUrl": "https://youtube.com/embed/2-xXatm9pnY",
+      "date": "2018.10.12",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 57,
+      "gameName": "Super Mario Party",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/super_mario_party.jpg",
+      "gamePrice": 1550,
+      "gameVideoUrl": "https://youtube.com/embed/FdoTiZqQ94E",
+      "date": "2018.10.5",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 58,
+      "gameName": "方塊創造者X",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/cube_creator_x.jpg",
+      "gamePrice": 850,
+      "gameVideoUrl": "https://youtube.com/embed/LOkjSGhr3kw",
+      "date": "2018.8.30",
+      "maker": "Arc System Works",
+      "type": "盒裝版"
+    },
+    {
+      "id": 59,
+      "gameName": "Go Vacation",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/go_vacation.jpg",
+      "gamePrice": 1390,
+      "gameVideoUrl": "https://youtube.com/embed/9bOCaW6R8Dc",
+      "date": "2018.7.27",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 60,
+      "gameName": "高高興興動物樂園",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/wakuwaku_animal.jpg",
+      "gamePrice": 890,
+      "gameVideoUrl": "https://youtube.com/embed/merGr7cPhoY",
+      "date": "2018.7.26",
+      "maker": "Nippon Columbia",
+      "type": "盒裝版"
+    },
+    {
+      "id": 61,
+      "gameName": "OCTOPATH TRAVELER 歧路旅人",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/octopath_traveler.jpg",
+      "gamePrice": 1750,
+      "gameVideoUrl": "https://youtube.com/embed/xkPAFap2Z5k",
+      "date": "2018.7.13",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 62,
+      "gameName": "進め！キノピオ隊長",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/captain_toad_treasure_tracker.jpg",
+      "gamePrice": 1190,
+      "gameVideoUrl": "https://youtube.com/embed/lR7EDhT2CJ8",
+      "date": "2018.7.13",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 63,
+      "gameName": "Mario Tennis Ace",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/mario_tennis_ace.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/7HyTvMqza9I",
+      "date": "2018.6.22",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 64,
+      "gameName": "Sushi Striker™: The Way of Sushido (英文版)",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/sushi_striker_en.jpg",
+      "gamePrice": 790,
+      "gameVideoUrl": "https://youtube.com/embed/2yZZBb-O_bw",
+      "date": "2018.6.8",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 65,
+      "gameName": "超回転 寿司ストライカー The Way of Sushido (日文版)",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/sushi_striker_jp.jpg",
+      "gamePrice": 650,
+      "gameVideoUrl": "https://youtube.com/embed/cyyWyOlPH2E",
+      "date": "2018.6.8",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 66,
+      "gameName": "Donkey Kong Tropical Freeze",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/donkey_kong_tropical_freeze.jpg",
+      "gamePrice": 1490,
+      "gameVideoUrl": "https://youtube.com/embed/wWfPx0BwM_8",
+      "date": "2018.5.3",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 67,
+      "gameName": "Nintendo Labo Toy-Con 01: 組合套裝",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/labo_01_tc.jpg",
+      "gamePrice": 650,
+      "gameVideoUrl": "https://youtube.com/embed/YQHkqgkqxEY",
+      "date": "2018.4.20",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 68,
+      "gameName": "ZELDA無雙 海拉魯全明星 豪華版",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/zelda_muso.jpg",
+      "gamePrice": 950,
+      "gameVideoUrl": "https://youtube.com/embed/ZiTvx1IioHo",
+      "date": "2018.3.22",
+      "maker": "KOEI TECMO GAMES",
+      "type": "盒裝版"
+    },
+    {
+      "id": 69,
+      "gameName": "星之卡比 新星同盟",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/kirby_star_allies.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/nOuKC6FTT-g",
+      "date": "2018.3.16",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 70,
+      "gameName": "BAYONETTA 2",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/bayonetta2.jpg",
+      "gamePrice": 1790,
+      "gameVideoUrl": "https://youtube.com/embed/-nzBjXXcn7o",
+      "date": "2018.2.17",
+      "maker": "SEGA",
+      "type": "盒裝版"
+    },
+    {
+      "id": 71,
+      "gameName": "BAYONETTA∞CLIMAX EDITION (限量版)",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/bayonetta_climax_edition.jpg",
+      "gamePrice": 1490,
+      "gameVideoUrl": "https://youtube.com/embed/yBBz8TCk_GA",
+      "date": "2018.2.17",
+      "maker": "SEGA",
+      "type": "盒裝版"
+    },
+    {
+      "id": 72,
+      "gameName": "瑪利歐 + 瘋狂兔子 王國之戰",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/mario_rabbids_en.jpg",
+      "gamePrice": 820,
+      "gameVideoUrl": "https://youtube.com/embed/DqH-iwA0ZmU",
+      "date": "2018.1.18",
+      "maker": "Ubisoft",
+      "type": "盒裝版"
+    },
+    {
+      "id": 73,
+      "gameName": "異度神劍2",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/xenoblade2.jpg",
+      "gamePrice": 1950,
+      "gameVideoUrl": "https://youtube.com/embed/zbOv8xneR4Y",
+      "date": "2017.12.1",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 74,
+      "gameName": "異度神劍2 Collector's Edition",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/xenoblade2_collector_edition.jpg",
+      "gamePrice": 1990,
+      "gameVideoUrl": "https://youtube.com/embed/zbOv8xneR4Y",
+      "date": "2017.12.1",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 75,
+      "gameName": "The Elder Scrolls V: Skyrim",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/skyrim.jpg",
+      "gamePrice": 1880,
+      "gameVideoUrl": "https://youtube.com/embed/8dME5z3uFXY",
+      "date": "2017.11.18",
+      "maker": "Bethesda",
+      "type": "盒裝版"
+    },
+    {
+      "id": 76,
+      "gameName": "你裁我剪！斯尼帕Plus",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/snipperclip_plus.jpg",
+      "gamePrice": 890,
+      "gameVideoUrl": "https://youtube.com/embed/BY92izbU5Ng",
+      "date": "2017.11.10",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 77,
+      "gameName": "FIRE EMBLEM 無雙",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/fem.jpg",
+      "gamePrice": 1350,
+      "gameVideoUrl": "https://youtube.com/embed/Ep4iKXxzrAU",
+      "date": "2017.10.27",
+      "maker": "KOEI TECMO GAMES",
+      "type": "盒裝版"
+    },
+    {
+      "id": 78,
+      "gameName": "超級瑪利歐 奧德賽",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/super_mario_odyssey.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/Mq9YbJyGhKI",
+      "date": "2017.10.27",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 79,
+      "gameName": "ポッ拳 POKKÉN TOURNAMENT DX",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/pokken_dx.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/zpRCgOjNQ9M",
+      "date": "2017.9.22",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 80,
+      "gameName": "Splatoon2 (日文版)",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/splatoon_jp.jpg",
+      "gamePrice": 1490,
+      "gameVideoUrl": "https://youtube.com/embed/CROuiq-YjlI",
+      "date": "2017.7.21",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 81,
+      "gameName": "ARMS",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/arms.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/tQ2HhmrrWLg",
+      "date": "2017.6.16",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 82,
+      "gameName": "Ultra Street Fighter II: The Final Challengers",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/usf_tfc.jpg",
+      "gamePrice": 990,
+      "gameVideoUrl": "https://youtube.com/embed/IS11GOUIiHg",
+      "date": "2017.5.26",
+      "maker": "CAPCOM",
+      "type": "盒裝版"
+    },
+    {
+      "id": 83,
+      "gameName": "瑪利歐賽車8 豪華版",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/mk8.jpg",
+      "gamePrice": 1590,
+      "gameVideoUrl": "https://youtube.com/embed/udFuYmHqQX8",
+      "date": "2017.4.28",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 84,
+      "gameName": "三國志13 with Power-up Kit",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/sangokushi_13wpk.jpg",
+      "gamePrice": 1690,
+      "gameVideoUrl": "https://youtube.com/embed/FjMDOAqP7CE",
+      "date": "2017.3.30",
+      "maker": "KOEI TECMO GAMES",
+      "type": "盒裝版"
+    },
+    {
+      "id": 85,
+      "gameName": "信長の野望･創造 with パワーアップキット",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/nobunaga_no_yabou.jpg",
+      "gamePrice": 1990,
+      "gameVideoUrl": "https://youtube.com/embed/w4hCpSqsxHo",
+      "date": "2017.3.3",
+      "maker": "KOEI TECMO GAMES",
+      "type": "盒裝版"
+    },
+    {
+      "id": 86,
+      "gameName": "魔法氣泡 TETRIS®",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/puyopuyo_tetris.jpg",
+      "gamePrice": 550,
+      "gameVideoUrl": "https://youtube.com/embed/HQ4ia1-1CPs",
+      "date": "2017.3.3",
+      "maker": "SEGA",
+      "type": "盒裝版"
+    },
+    {
+      "id": 87,
+      "gameName": "1-2-Switch",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/1-2-switch.jpg",
+      "gamePrice": 1290,
+      "gameVideoUrl": "https://youtube.com/embed/DpHDJRGuL7w",
+      "date": "2017.3.3",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    },
+    {
+      "id": 88,
+      "gameName": "薩爾達傳說 曠野之息",
+      "imgUrl": "https://www.nintendo.tw/software/img/bnr/zelda_botw.jpg",
+      "gamePrice": 1790,
+      "gameVideoUrl": "https://youtube.com/embed/nWxtdvI8MNM",
+      "date": "2017.3.3",
+      "maker": "Nintendo",
+      "type": "盒裝版"
+    }
+  ],
+  "cart": [
+    {
+      "id": "114294146809322413655",
+      "gameList": [
+        {
+          "id": 1,
+          "gameName": "FIRE EMBLEM 無雙 風花雪月",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000050752.jpeg",
+          "gamePrice": 1980,
+          "amount": 1,
+          "userId": "114294146809322413655"
+        }
+      ]
+    }
+  ],
+  "order": [
+    {
+      "name": "朱怡璇",
+      "phone": "0970179514",
+      "address": "金陵路四段五號",
+      "pay": "信用卡",
+      "totalPrice": 5520,
+      "userId": "117298503299546924633",
+      "date": "2022-06-04",
+      "orderList": [
+        {
+          "id": 4,
+          "gameName": "星之卡比 探索發現",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/70010000046408.jpeg",
+          "gamePrice": 1590,
+          "amount": 1,
+          "userId": "117298503299546924633"
+        },
+        {
+          "id": 15,
+          "gameName": "附帶導航！一做就上手 第一次的遊戲程式設計",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/navi.jpg",
+          "gamePrice": 750,
+          "amount": 1,
+          "userId": "117298503299546924633"
+        },
+        {
+          "id": 19,
+          "gameName": "超級瑪利歐 ３Ｄ世界 ＋ 狂怒世界",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/super_mario_3d_world.jpg",
+          "gamePrice": 1590,
+          "amount": 2,
+          "userId": "117298503299546924633"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "朱怡璇",
+      "phone": "0970179514",
+      "address": "高雄市燕巢區燕南二街68號",
+      "pay": "LINE PAY",
+      "totalPrice": 2980,
+      "userId": "114294146809322413655",
+      "date": "2022-06-04",
+      "orderList": [
+        {
+          "id": 7,
+          "gameName": "寶可夢 晶燦鑽石",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/2021071_eshop_banner_nhl_92_.jpg",
+          "gamePrice": 1390,
+          "amount": 1,
+          "userId": "114294146809322413655"
+        },
+        {
+          "id": 21,
+          "gameName": "ZELDA無雙 災厄啟示錄",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/zelda_musou.jpg",
+          "gamePrice": 1590,
+          "amount": 1,
+          "userId": "114294146809322413655"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "朱怡璇",
+      "phone": "0970179514",
+      "address": "高雄市燕巢區燕南二街68號",
+      "pay": "貨到付款",
+      "totalPrice": 3340,
+      "userId": "114294146809322413655",
+      "date": "2022-06-05",
+      "orderList": [
+        {
+          "id": 61,
+          "gameName": "OCTOPATH TRAVELER 歧路旅人",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/octopath_traveler.jpg",
+          "gamePrice": 1750,
+          "amount": 1,
+          "userId": "114294146809322413655"
+        },
+        {
+          "id": 69,
+          "gameName": "星之卡比 新星同盟",
+          "imgUrl": "https://www.nintendo.tw/software/img/bnr/kirby_star_allies.jpg",
+          "gamePrice": 1590,
+          "amount": 1,
+          "userId": "114294146809322413655"
+        }
+      ],
+      "id": 11
+    }
+  ]
+}
