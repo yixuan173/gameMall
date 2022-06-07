@@ -1,6 +1,6 @@
 # 如何開始
 
-終端機分別運行 ### `npm start` ### `npm run json-server`
+終端機分別運行 `npm start` `npm run json-server`
 
 ## 簡介
 
