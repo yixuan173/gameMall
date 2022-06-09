@@ -1,5 +1,6 @@
 import games from "../apis/games";
 
+// 登入登出
 export const signIn = (userId) => {
   return {
     type: "SIGN_IN",
@@ -13,6 +14,7 @@ export const signOut = () => {
   };
 };
 
+// 獲取遊戲資訊
 export const fetchGames = () => async (dispatch) => {
   const res = await games.get("/games");
 
@@ -25,14 +27,11 @@ export const fetchGame = (id) => async (dispatch) => {
   dispatch({ type: "FETCH_GAME", payload: res.data });
 };
 
+// 購物車CRUD
 export const fetchCart = (userId) => async (dispatch) => {
-  try {
-    const res = await games.get(`/cart/${userId}`);
+  const res = await games.get(`/cart/${userId}`);
 
-    dispatch({ type: "FETCH_CART", payload: res.data.gameList });
-  } catch {
-    console.log("💥 404 NOT FOUND (尚未建立購物車) 💥");
-  }
+  dispatch({ type: "FETCH_CART", payload: res.data.gameList });
 };
 
 export const clearCart = () => {
@@ -65,6 +64,7 @@ export const deleteCart = (userId) => async (dispatch) => {
   dispatch({ type: "DELETE_CART" });
 };
 
+// 訂單處理
 export const fetchOrders = (userId) => async (dispatch) => {
   const res = await games.get(`/order?userId=${userId}`);
 

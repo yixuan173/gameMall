@@ -18,10 +18,11 @@ function UseGoogleAuth() {
   useEffect(() => {
     let auth;
 
+    // 處理登入狀態改變
     const onAuthChange = (isSignedIn) => {
       if (isSignedIn) {
-        dispatch(fetchCart(auth.currentUser.get().getId()));
         dispatch(signIn(auth.currentUser.get().getId()));
+        dispatch(fetchCart(auth.currentUser.get().getId()));
         dispatch(fetchOrders(auth.currentUser.get().getId()));
       } else {
         dispatch(signOut());
@@ -30,6 +31,7 @@ function UseGoogleAuth() {
       }
     };
 
+    // gapi 載入
     window.gapi.load("client:auth2", () => {
       window.gapi.client
         .init({
@@ -41,6 +43,7 @@ function UseGoogleAuth() {
           auth = window.gapi.auth2.getAuthInstance();
           setAuth(auth);
           onAuthChange(auth.isSignedIn.get());
+          // 監聽登入狀態變化
           auth.isSignedIn.listen(onAuthChange);
         });
     });
