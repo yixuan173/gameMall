@@ -35,7 +35,7 @@ function UseGoogleAuth() {
     window.gapi.load("client:auth2", () => {
       window.gapi.client
         .init({
-          clientId: KEY,
+          clientId: KEY, // Google OAuth ID
           scope: "email",
           plugin_name: "streamy",
         })
